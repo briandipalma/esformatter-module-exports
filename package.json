@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/briandipalma/esformatter-module-exports/issues"
   },
-  "homepage": "https://github.com/briandipalma/esformatter-module-exports"
+  "homepage": "https://github.com/briandipalma/esformatter-module-exports",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
 }
