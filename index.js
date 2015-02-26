@@ -13,7 +13,7 @@ exports.tokenBefore = function(token) {
 			before(token, createNewLineToken());
 		}
 
-		var prevToPrev = prev.prev;
+		var prevToPrev = token.prev.prev;
 
 		// If the token two steps back is also not a newline add one.
 		if (isBr(prevToPrev) === false) {
