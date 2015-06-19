@@ -1,6 +1,6 @@
 {
   "name": "esformatter-module-exports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "esformatter plugin for module.export formatting",
   "main": "index.js",
   "scripts": {
